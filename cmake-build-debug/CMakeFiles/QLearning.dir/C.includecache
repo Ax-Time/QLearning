@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+qtable.h
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/qtable.h
+miscellaneous.h
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/miscellaneous.h
+simple_game.h
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/simple_game.h
+
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/miscellaneous.h
+inttypes.h
+-
+stdbool.h
+-
+
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/qtable.h
+inttypes.h
+-
+miscellaneous.h
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/miscellaneous.h
+
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/simple_game.h
+miscellaneous.h
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/miscellaneous.h
+qtable.h
+C:/Users/giaco/Desktop/CSprojects/C_Projects/QLearning/qtable.h
+
